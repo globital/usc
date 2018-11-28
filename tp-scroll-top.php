@@ -9,6 +9,8 @@ Author: themepoints
 Author URI: http://www.themepoints.com
 License URI: http://www.themepoints.com/copyright/
 
+Globital Media
+
 */
 
 
