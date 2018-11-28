@@ -4,12 +4,11 @@
 Plugin Name: Tp Scroll Top
 Plugin URI: http://www.themepoints.com
 Description: Tp Scroll To Top is fully responsive plugin for WordPress.
-Version: 1.2
+Version: 1.100
 Author: themepoints
 Author URI: http://www.themepoints.com
 License URI: http://www.themepoints.com/copyright/
 
-Globital Media
 
 */
 
